@@ -1,4 +1,4 @@
-Questão 7
+# Questão 7
 
 soma = 0
 
@@ -16,7 +16,7 @@ for i in range(a, b+1):
 
 print(soma)
 
-Questão 8
+# Questão 8
 
 c = []
 
@@ -32,7 +32,7 @@ for i in range(a, b+1):
 
 print(c)
 
-Questão 9
+# Questão 9
 
 x = 0
 s = -1
